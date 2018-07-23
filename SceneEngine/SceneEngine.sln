@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SceneEngine", "SceneEngine.vcxproj", "{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Debug|x64.ActiveCfg = Debug|x64
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Debug|x64.Build.0 = Debug|x64
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Debug|x86.ActiveCfg = Debug|Win32
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Debug|x86.Build.0 = Debug|Win32
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Release|x64.ActiveCfg = Release|x64
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Release|x64.Build.0 = Release|x64
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Release|x86.ActiveCfg = Release|Win32
+		{D18022D6-59BD-4E5A-ABF6-0353BCB3D578}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0488A48C-EEED-4536-A6E7-932900B573C3}
+	EndGlobalSection
+EndGlobal
